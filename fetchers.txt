@@ -1,0 +1,6 @@
+https://github.com/GeorgiiUlev/test.git
+https://github.com/irakliy0701/repositoryprob.git
+https://github.com/MariaMarkina/Kontrolnaya_rabota.git
+https://github.com/Dasha-Petrova/git_exammmm.git
+https://github.com/KlopovaAnastasia/for_testing.git
+https://github.com/Gazsey/GovnoTesting.git
